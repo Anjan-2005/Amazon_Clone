@@ -196,7 +196,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or support, contact:
 
-- **Email**: [your-email@example.com](mailto\:your-email@example.com)
+- **Email**: [anjandaspc@gmail.com](mailto\:your-email@example.com)
 - **GitHub**: [Anjan-2005](https://github.com/Anjan-2005)
 
 ---
